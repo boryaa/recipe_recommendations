@@ -14,7 +14,7 @@ Models are compared using Precision@N, Recall@N, and F1@N (plus MAE/RMSE in the 
 | --- | --- | --- | ---: |
 | Popularity | 0.0248 | **0.0413** | 0.0243 |
 | Item-KNN (k=5) | 0.0223 | 0.0321 | 0.0206 |
-| LightFM | **0.0273** | 0.0402 | 0.0252 |
+| LightFM | **0.0273** | 0.0402 | **0.0252** |
 
 ## Interpretation
 
